@@ -1,13 +1,6 @@
-## Hi there 👋
+Hi, I'm **Junwoo Park**, a CS undergrad at Sungkyunkwan University working on AI for Healthcare.
 
-I’m JunWoo Park, currently an undergraduate in the Department of Computer Science and Engineering at Sungkyunkwan University.
-My research sits at the intersection of **Healthcare & AI**, where I aim to develop intelligent solutions that improve diagnostic accuracy, personalize treatment plans, and accelerate drug discovery.
+🔬 Research Assistant @ SKKU AI-Healthcare Lab  
+📄 Paper accepted in *Frontiers in Toxicology* (Nov. 2025) [[code]](https://github.com/skku-aihclab/proj25-molecule-toxicity-prediction)
 
-### 🔬 Research Highlights
-- **MoltiTox: Multi-Modal Toxicity Prediction (AI-Healthcare Lab)** 
-  – Designed a fusion framework combining graph, SMILES, 2D-image, and NMR modalities.  
-  – Achieved state-of-the-art performance on the Tox21 dataset with an attention-based fusion of four encoders.
-
-🔗 **Portfolio & More**  
-Visit my full portfolio for detailed project breakdowns, publications, and demos:  
-https://JunwooP.github.io
+[Website](https://junwoop0.github.io/) • [LinkedIn](https://www.linkedin.com/in/pjw00/)
